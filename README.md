@@ -55,8 +55,8 @@ The dataset contains:
 - Interactive Filters (City & Category slicers)
 
 ## 📁 Project Files
-- `Sales_Performance_Dashboard.xlsx` — Main dashboard file
-- `Screenshot 2026-04-19 143252.png` — Dashboard preview
+- `Sales_Dashboard_jan_Aug_2026.xlsx` — Main dashboard file
+- `Screenshot%202026-04-19%20143252.png` — Dashboard preview
 
 ## 🚀 How to View
 1. Download or clone the repository.
